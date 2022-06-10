@@ -1,0 +1,2 @@
+module Forca_LabOO {
+}

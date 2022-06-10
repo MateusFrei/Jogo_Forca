@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
+    <fullyQualifiedTypeName name="br.edu.iff.bancodepalavras.dominio.palavra.Palavra"/>
+    <fullyQualifiedTypeName name="br.edu.iff.jogoforca.Aplicacao"/>
+    <fullyQualifiedTypeName name="br.edu.iff.jogoforca.dominio.rodada.RodadaAppService"/>
+    <fullyQualifiedTypeName name="br.edu.iff.jogoforca.dominio.jogador.JogadorFactory"/>
+    <fullyQualifiedTypeName name="br.edu.iff.bancodepalavras.dominio.tema.TemaFactory"/>
+    <fullyQualifiedTypeName name="br.edu.iff.jogoforca.dominio.rodada.RodadaFactory"/>
+    <fullyQualifiedTypeName name="br.edu.iff.bancodepalavras.dominio.tema.Tema"/>
+    <fullyQualifiedTypeName name="br.edu.iff.bancodepalavras.dominio.palavra.PalavraFactory"/>
+    <fullyQualifiedTypeName name="com.sun.tools.javac.parser.Scanner"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="br.edu.iff.jogoforca.dominio.jogador.Jogador"/>
+    <fullyQualifiedTypeName name="br.edu.iff.jogoforca.dominio.rodada.Rodada"/>
+    <fullyQualifiedTypeName name="br.edu.iff.bancodepalavras.dominio.letra.Letra"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+</qualifiedTypeNameHistroy>

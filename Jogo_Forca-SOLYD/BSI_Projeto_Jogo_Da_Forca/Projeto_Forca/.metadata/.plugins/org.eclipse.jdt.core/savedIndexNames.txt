@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+C:\Users\mateus\Documents\GitHub\Lab-OO\Jogo_Forca\Jogo_Forca-SOLYD\BSI_Projeto_Jogo_Da_Forca\Projeto_Forca\.metadata\.plugins\org.eclipse.jdt.core
+830062509.index
+1233483442.index
